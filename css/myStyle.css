@@ -1,0 +1,28 @@
+body
+{
+	background: url(../images/grey_texture.png) lightgray top left repeat fixed
+}
+
+h1
+{
+	border: solid thin blue;
+	padding: 20px;
+	margin: 20px 50px 10px;
+}
+
+h3
+{
+	clear: both;
+	margin: 20px;
+}
+
+img
+{
+	float: left;
+	margin: 20px;
+}
+
+p
+{
+	margin: 20px;
+}
